@@ -1,5 +1,5 @@
-# Projeto_Arduino
-Projeto criado pelo TinkerCad para atividades do curso de ciência da computação na faculdade FEI.
+# Projeto Arduino
+Primeiro projeto criado pelo TinkerCad para atividade curricular do curso de ciência da computação na faculdade FEI.
 
 Esse projeto é um teclado musical com as notas indo de Do até Sol, com o intuito de tocar a música "Do-Re-Mi-Fa", caso seja tocada na ordem certa e com as notas certas, um LED verde acenderá, indicando que a música foi tocada com sucesso, caso contrário o LED não irá acender.
 
